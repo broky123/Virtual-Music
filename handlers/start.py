@@ -10,22 +10,22 @@ async def start(_, message: Message):
 
 Aku adalah Bot Musik Telegram, Apabila Ingin Menggunakan Aku Invite Aku Dan Assisten Aku Ya Biar Berjalan Dengan Lancar, Apabila Ada Kendala Tidak Tau Cara Pakainya Bisa PC OWNERNYA!:))
 ━━━━━━━━━━━━━━━━━━━━━━━━━
-Bot : @Crystalisticbot - Asisten : @Assistencrystal
+Bot : @Oneheartmusicbot - Asisten : @AsisstantOneHeart
         """,
         reply_markup=InlineKeyboardMarkup(
             [ 
                 [
                     InlineKeyboardButton(
-                        "⚡ Owner Aku!", url="https://t.me/afterdaytoxic")
+                        "⚡ Owner Aku!", url="https://t.me/boyfriendnice")
                   ],[
                     InlineKeyboardButton(
-                        "🍃 Channel Aku!", url="https://t.me/captionanakmuda"
+                        "🍃 Channel Aku!", url="https://t.me/@chvirtual62"
                     ),
                     InlineKeyboardButton(
-                        "❤️ Grup Aku!", url="https://t.me/humangabutguys") 
+                        "❤️ Grup Aku!", url="https://t.me/remaja_virtual62") 
                   ],[
                     InlineKeyboardButton(
-                        "👸 My Bot Help!", url="https://t.me/naylaanggitabot"
+                        "👸 My Bot Help!", url="https://t.me/Asisstant_groupbot"
                     )
                 ]
             ]
@@ -40,10 +40,10 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌙 Group Support!", url="https://t.me/humangabutguys"
+                        "🌙 Group Support!", url="https://t.me/remaja_virtual62"
                     ),
                     InlineKeyboardButton(
-                        "⚡ Owner Aku!", url="https://t.me/afterdaytoxic"
+                        "⚡ Owner Aku!", url="https://t.me/boyfriendnice"
                     )
                 ]
             ]
@@ -57,10 +57,10 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "⚡ Onwer Aku!", url="https://t.me/afterdaytoxic") 
+                        "⚡ Onwer Aku!", url="https://t.me/boyfriendnice") 
                 ],[
                     InlineKeyboardButton(
-                        "🌙 Group Support!", url="https://t.me/humangabutguys"
+                        "🌙 Group Support!", url="https://t.me/remaja_virtual62"
                     )
                 ]
             ]
