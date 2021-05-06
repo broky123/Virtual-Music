@@ -784,7 +784,7 @@ async def jiosaavn(client: Client, message_: Message):
                 ],                     
                 [
                     InlineKeyboardButton(
-                        "✨ Owner Aku!", url="https://t.me/afterdaytoxic"
+                        "✨ Owner Aku!", url="https://t.me/boyfriendnice"
                     )
                 ],
                 [       
