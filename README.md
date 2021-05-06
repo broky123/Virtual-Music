@@ -47,7 +47,7 @@
 
 ### Generate String Session
 
-Gabung Ke Grup & Channel Aku! [Grup Aku!](https://t.me/humangabutguys) Channel Grup! [Channel Aku!](https://t.me/captionanakmuda)
+Gabung Ke Grup & Channel Aku! [Grup Aku!](https://t.me/remaja_virtual62) Channel Grup! [Channel Aku!](https://t.me/chvirtual62)
 
 ### Credits
 - [Afterday](https://github.com/anehajahlu)
