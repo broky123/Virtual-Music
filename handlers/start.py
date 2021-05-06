@@ -10,7 +10,7 @@ async def start(_, message: Message):
 
 Aku adalah Bot Musik Telegram, Apabila Ingin Menggunakan Aku Invite Aku Dan Assisten Aku Ya Biar Berjalan Dengan Lancar, Apabila Ada Kendala Tidak Tau Cara Pakainya Bisa PC OWNERNYA!:))
 ━━━━━━━━━━━━━━━━━━━━━━━━━
-Bot : @ikyyofficialbot - Asisten : @robotasisstant
+Bot : @Oneheartmusicbot - Asisten : @AsisstantOneHeart
         """,
         reply_markup=InlineKeyboardMarkup(
             [ 
