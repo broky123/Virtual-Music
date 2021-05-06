@@ -19,7 +19,7 @@ Bot : @officialheartbot - Asisten : @AsisstantOneHeart
                         "⚡ Owner Aku!", url="https://t.me/boyfriendnice")
                   ],[
                     InlineKeyboardButton(
-                        "🍃 Channel Aku!", url="https://t.me/@chvirtual62"
+                        "🍃 Channel Aku!", url="https://t.me/chvirtual62"
                     ),
                     InlineKeyboardButton(
                         "❤️ Grup Aku!", url="https://t.me/remaja_virtual62") 
