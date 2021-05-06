@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="./etc/logo_readme.jpg" alt="Crystal Music Logo">
 
-<h2 align="centre">🎵 CRYSTAL HEART MUSIC!</h1>
+<h2 align="centre">🎵 ONE-HEART MUSIC!</h1>
 
 ### Aku Pemutar Musik Di-Telegram, Aku Akan Menemani Ke-Galauan Di VOICE CHAT GRUP!
 
