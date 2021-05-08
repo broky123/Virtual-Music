@@ -27,16 +27,16 @@ async def start(_, message: Message):
             [ 
                 [
                     InlineKeyboardButton(
-                        "⚡ Owner Aku!", url="https://t.me/boyfriendnice")
+                        "⚡ Owner", url="https://t.me/boyfriendnice")
                   ],[
                     InlineKeyboardButton(
-                        "🍃 Channel Aku!", url="https://t.me/chvirtual62"
+                        "🍃 Channel Aku", url="https://t.me/chvirtual62"
                     ),
                     InlineKeyboardButton(
-                        "❤️ Grup Aku!", url="https://t.me/remaja_virtual62") 
+                        "❤️ Grup", url="https://t.me/remaja_virtual62") 
                   ],[
                     InlineKeyboardButton(
-                        "👸 Instagram!", url="https://t.me/ikyyy_35"
+                        "👸 My bot help", url="https://t.me/@Asisstant_groupbot"
                     )
                 ]
             ]
@@ -51,10 +51,10 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌙 Group Support!", url="https://t.me/remaja_virtual62"
+                        "🌙 Group Support", url="https://t.me/remaja_virtual62"
                     ),
                     InlineKeyboardButton(
-                        "⚡ Owner Aku!", url="https://t.me/boyfriendnice"
+                        "⚡ Owner", url="https://t.me/boyfriendnice"
                     )
                 ]
             ]
@@ -68,10 +68,10 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "⚡ Onwer Aku!", url="https://t.me/boyfriendnice") 
+                        "⚡ Onwer", url="https://t.me/boyfriendnice") 
                 ],[
                     InlineKeyboardButton(
-                        "🌙 Group Support!", url="https://t.me/remaja_virtual62"
+                        "🌙 Group Support", url="https://t.me/remaja_virtual62"
                     )
                 ]
             ]
