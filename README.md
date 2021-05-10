@@ -1,6 +1,6 @@
 
 
-<h2 align="centre">🎵 ONE-HEART MUSIC!</h1>
+<h2 align="centre">🎵 VIRTUAL MUSIC!</h1>
 
 ### Aku Pemutar Musik Di-Telegram, Aku Akan Menemani Ke-Galauan Di VOICE CHAT GRUP!
 
@@ -42,7 +42,7 @@
 
 ### Deploy To Heroku</h4>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/broky123/ROBOT-)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/broky123/Virtual-Music)
 
 ### Generate String Session
 
