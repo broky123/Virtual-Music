@@ -6,7 +6,7 @@ from config import BOT_NAME as bn
 @Client.on_message(filters.command("start") & filters.private & ~filters.channel)
 async def start(_, message: Message):
     await message.reply_text(
-        f"""<b>👋🏻 Haii Guys, Apa Kabar Kamu??:)) {message.from_user.first_name}!</b>
+        f"""<b>👋🏻 Haii, Apa Kabar Kamu? {message.from_user.first_name}𓊈ONE-HEART MUSIC𓊉\n
 
 𝐀𝐊𝐔 𝐀𝐃𝐀𝐋𝐀𝐇 𝐁𝐎𝐓 𝐌𝐔𝐒𝐈𝐊 𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌 𝐘𝐀𝐍𝐆 𝐃𝐈 𝐊𝐄𝐌𝐁𝐀𝐍𝐆𝐊𝐀𝐍 𝐎𝐋𝐄𝐇 : @boyfriendnice
 𝐀𝐏𝐀𝐁𝐈𝐋𝐀 𝐈𝐍𝐆𝐈𝐍 𝐌𝐄𝐍𝐆𝐆𝐔𝐍𝐀𝐊𝐀𝐍 𝐀𝐊𝐔 𝐈𝐍𝐕𝐈𝐓𝐄 𝐀𝐊𝐔 𝐃𝐀𝐍 𝐀𝐒𝐈𝐒𝐒𝐓𝐀𝐍𝐓 𝐍𝐘𝐀 𝐀𝐆𝐀𝐑 𝐁𝐈𝐒𝐀 𝐁𝐄𝐑𝐉𝐀𝐋𝐀𝐍 𝐃𝐄𝐍𝐆𝐀𝐍 𝐋𝐀𝐍𝐂𝐀𝐑 𝐉𝐀𝐃𝐈𝐊𝐀𝐍 𝐀𝐃𝐌𝐈𝐍 𝐊𝐄𝐃𝐔𝐀𝐍𝐘𝐀.
